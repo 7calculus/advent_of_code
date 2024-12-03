@@ -1,3 +1,4 @@
+//I cheated a bit (Errichto)
 #include<bits/stdc++.h>
 #define brr cin.tie(0);cout.tie(0);ios::sync_with_stdio(false);
 using namespace std;
