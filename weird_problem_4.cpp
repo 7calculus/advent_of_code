@@ -29,7 +29,7 @@ bool check(vector<int> v,int i){
         }else return false;
 }
 int main(){
-    freopen("input_3.txt","r",stdin);
+    freopen("input_4.txt","r",stdin);
     brr
     string s;
     int count=0;
